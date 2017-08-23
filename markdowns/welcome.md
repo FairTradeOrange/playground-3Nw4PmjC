@@ -5,6 +5,27 @@ This Java template lets you get started quickly with a simple working example us
 
 The source code is on [GitHub](https://github.com/TechDotIO/java-template), please feel free to come up with proposals to improve it.
 
+
+
+# Hello world,
+
+welcome to my course. This is the first lesson.
+
+#####
+  #
+  #
+  #
+
+
+
+
+
+
+
+
+
+
+
 # Hands-on Demo
 
 @[Luke, how many stars are there in these galaxies?]({"stubs": ["src/main/java/com/yourself/Universe.java"], "command": "com.yourself.UniverseTest#test"})
