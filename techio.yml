@@ -4,6 +4,8 @@ title : Java template test
 plan:
   - title: Welcome Test # Set the page title (only displayed if your contribution has several pages)
     statement: markdowns/welcome.md # Set the file path to the page content
+  - title: Part 2 Test 
+    statement: markdown/part2.md
 #  - title: Another Page
 #    statement: markdowns/another-page.md
 
